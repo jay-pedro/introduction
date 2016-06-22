@@ -6,3 +6,6 @@ h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\WinSln.Properties.Resourc
 h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\WinSln.csproj.GenerateResource.Cache
 h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\WinSln.exe
 h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\WinSln.pdb
+H:\GitHub\introduction\MSMove\bin\Debug\WinSln.exe.config
+H:\GitHub\introduction\MSMove\obj\Debug\WinSln.exe
+H:\GitHub\introduction\MSMove\obj\Debug\WinSln.pdb
