@@ -1,0 +1,8 @@
+h:\visual studio 2013\Projects\MSMove\MSMove\bin\Debug\MSMove.exe.config
+h:\visual studio 2013\Projects\MSMove\MSMove\bin\Debug\MSMove.exe
+h:\visual studio 2013\Projects\MSMove\MSMove\bin\Debug\MSMove.pdb
+h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\MSMove.Form1.resources
+h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\MSMove.Properties.Resources.resources
+h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\MSMove.csproj.GenerateResource.Cache
+h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\MSMove.exe
+h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\MSMove.pdb
