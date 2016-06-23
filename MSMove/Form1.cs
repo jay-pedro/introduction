@@ -61,18 +61,36 @@ namespace MSMove
 
                 intCounter = 0;
 
+
             }
 
-            Random myRnd = new Random();            
+            Random myRnd = new Random();
             int x = myRnd.Next(0, Screen.PrimaryScreen.Bounds.Width);
             int y = myRnd.Next(0, Screen.PrimaryScreen.Bounds.Height);
             this.Cursor = new Cursor(Cursor.Current.Handle);
-            Cursor.Position = new Point(x,y);            
+            Cursor.Position = new Point(x, y);
+
+            if (MessageBox.Show("Are you annoyed yet?", "Serious Question", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                if (MessageBox.Show("Are you sure?", "Think hard", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                { if (MessageBox.Show("Already?", "But the fun just started!", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                    {
+                        MessageBox.Show("Are you 100% sure", "I know you want to continue", MessageBoxButtons.YesNo, MessageBoxIcon.Warning); 
+                    }   
+                }
+
+            }
+            else
+            {
+                MessageBox.Show("Good, Then the fun just started!", "Thank you", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            }
         }
 
         private void timer1_Tick(object sender, EventArgs e)
         {
             MoveCursor();
         }
+        
+
     }
 }
