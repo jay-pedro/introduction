@@ -9,3 +9,9 @@ h:\visual studio 2013\Projects\MSMove\MSMove\obj\Debug\WinSln.pdb
 H:\GitHub\introduction\MSMove\bin\Debug\WinSln.exe.config
 H:\GitHub\introduction\MSMove\obj\Debug\WinSln.exe
 H:\GitHub\introduction\MSMove\obj\Debug\WinSln.pdb
+H:\GitHub\introduction\MSMove\bin\Debug\WinSln.exe
+H:\GitHub\introduction\MSMove\bin\Debug\WinSln.pdb
+H:\GitHub\introduction\MSMove\obj\Debug\WinSln.csprojResolveAssemblyReference.cache
+H:\GitHub\introduction\MSMove\obj\Debug\MSMove.Form1.resources
+H:\GitHub\introduction\MSMove\obj\Debug\WinSln.Properties.Resources.resources
+H:\GitHub\introduction\MSMove\obj\Debug\WinSln.csproj.GenerateResource.Cache
